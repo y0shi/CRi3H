@@ -1,3 +1,11 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://y0shi.github.io/CRi3D'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'CRi3D'
+
+theme = "hugo-book"
+
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
