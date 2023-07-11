@@ -1,6 +1,6 @@
-baseURL = 'http://y0shi.github.io/CRi3D'
+baseURL = 'http://y0shi.github.io/CRi3H'
 languageCode = 'en-us'
-title = 'CRi3D'
+title = 'CRi3H'
 
 theme = "hugo-book"
 
