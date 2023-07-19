@@ -1,4 +1,5 @@
-baseURL = 'http://y0shi.github.io/CRi3H'
+# baseURL = 'http://y0shi.github.io/CRi3H'
+baseURL = 'http://www.CRi3H.com'
 languageCode = 'en-us'
 title = 'CRi3H'
 
