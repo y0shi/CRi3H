@@ -1,7 +1,7 @@
 ---
 title: "Session1"
 date: 2023-07-23T10:32:15-04:00
-draft: true
+draft: false
 ---
 
 #  Hour 1
