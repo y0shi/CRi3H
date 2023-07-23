@@ -5,24 +5,6 @@ draft: false
 ---
 
 #  Hour 1
-
-## Introduction
-Josh: “Let’s design and build a combat robot while we’re at Dragon Con.”
-
-Alan “That seems like a bad idea.”
-
-Josh: “What if we let everybody watch?”
-
-Alan: "You son of a b****, I'm in!" 
-
-
-## Disclaimer
-
-* We have no idea what we’re doing.
-* Don’t believe anything we say.
-* Wear your safety glasses.
-
-
 ## Overview/Agenda
 
 * **Session 1 - Getting started and design** (You are here!)
