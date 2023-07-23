@@ -16,7 +16,7 @@ At [DragonCon](https://www.dragoncon.org/) 2022, we hosted 3 sessions as part of
 ## How to sessions
 * [Hour 1](sessions/session1/)
 * [Hour 2](sessions/session2/)
-* Hour 3
+* [Hour 3](sessions/session3/)
 
 ## The bots
 * Level 1: Mini-T
