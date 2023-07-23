@@ -4,7 +4,7 @@
 
 ## Origins
 
-CRi3H is inspired by the 'Robot in 3 Hours (Ri3D)' challenge, which is done every year as part of the kickoff week for the [First Robotics Competition](https://www.firstinspires.org/robotics/frc) season.  Using that as a model, we set out to design, manufacture, wire, and assemble a small combat robot within 3 Hours.  We then immediately take the robots to compete, so there's no cheating!
+CRi3H is inspired by the 'Robot in 3 Days (Ri3D)' challenge, which is done every year as part of the kickoff week for the [First Robotics Competition](https://www.firstinspires.org/robotics/frc) season.  Using that as a model, we set out to design, manufacture, wire, and assemble a small combat robot within 3 Hours.  We then immediately take the robots to compete, so there's no cheating!
 
 We have lots of content planned!  But while we get our ducks in a row on that, here's a peek as to what's to come...
 
