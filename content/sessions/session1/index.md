@@ -4,12 +4,12 @@ date: 2023-07-23T10:32:15-04:00
 draft: false
 ---
 
-#  Hour 1
+#  Hour 1 - Getting Started
 ## Overview/Agenda
 
 * **Session 1 - Getting started and design** (You are here!)
 * *Session 2* - Wiring and Assembly
-* *Session 3* - Final Assembly, Controllers, Winners!
+* *Session 3* - Final Assembly and Controllers!
 * *Session 4* - *FIGHT*
 
 ## Previous Bots

@@ -5,13 +5,13 @@ draft: false
 ---
 
 
-#  Hour 3
+#  Hour 3 - Final Assembly and Controllers
 
 ## Overview/Agenda
 
 * *Session 1* - Getting started and design 
 * *Session 2* - Wiring and Assembly 
-* **Session 3 - Final Assembly, Controllers** (You are here!)
+* **Session 3 - Final Assembly and Controllers** (You are here!)
 * *"Session 4"* - *GO FIGHT*
 
 ## The final countdown

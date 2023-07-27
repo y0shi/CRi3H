@@ -22,12 +22,12 @@ Although we have a fair bit of experience in robotics, engineering, and software
 
 
 ## How to sessions
-* [Hour 1](sessions/session1/)
-* [Hour 2](sessions/session2/)
-* [Hour 3](sessions/session3/)
+* [Hour 1 - Getting started and design](sessions/session1/)
+* [Hour 2 - Wiring and Assembly](sessions/session2/)
+* [Hour 3 - Final Assembly and Controllers](sessions/session3/)
 
 ## The bots
-* Level 1: Mini-T
-* Level 1: Shr3dr
-* Level 2: AlanBot
-* Level 3: Viper Kit
+* [Level 1: Mini-T](bots/mini-t/)
+* [Level 1: Shr3dr](bots/shr3d3r/)
+* [Level 2: Marvin](bots/marvin/)
+* [Level 3: Viper(kit)](bots/viper/)
