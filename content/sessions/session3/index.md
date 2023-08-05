@@ -5,13 +5,13 @@ draft: false
 ---
 
 
-#  Hour 3
+#  Hour 3 - Final Assembly and Controllers
 
 ## Overview/Agenda
 
 * *Session 1* - Getting started and design 
 * *Session 2* - Wiring and Assembly 
-* **Session 3 - Final Assembly, Controllers** (You are here!)
+* **Session 3 - Final Assembly and Controllers** (You are here!)
 * *"Session 4"* - *GO FIGHT*
 
 ## The final countdown
@@ -25,5 +25,12 @@ draft: false
 ![Flysky Controller](images/controller.png)
 ![Channel Mixing](images/channels.png)
 
+{{< youtube LJOhL6DVads >}}
+
 ## Testing
+
+
+## Now what?
+
+### Finding a comp
 

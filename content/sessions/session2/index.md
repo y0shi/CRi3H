@@ -4,13 +4,13 @@ date: 2023-07-23T11:54:48-04:00
 draft: false
 ---
 
-#  Hour 2
+#  Hour 2 - Wiring and Assembly
 
 ## Overview/Agenda
 
 * *Session 1* - Getting started and design 
 * **Session 2 - Wiring and Assembly** (You are here!)
-* *Session 3* - Final Assembly, Controllers, Winners!
+* *Session 3* - Final Assembly and Controllers
 * *Session 4* - *FIGHT*
 
 ## Assembling your robot
