@@ -25,5 +25,12 @@ draft: false
 ![Flysky Controller](images/controller.png)
 ![Channel Mixing](images/channels.png)
 
+{{< youtube LJOhL6DVads >}}
+
 ## Testing
+
+
+## Now what?
+
+### Finding a comp
 

@@ -12,24 +12,20 @@ draft: false
 * *Session 3* - Final Assembly and Controllers!
 * *Session 4* - *FIGHT*
 
-## Previous Bots
-
-![mini-t](images/mini-t.jpg)
-
-![shr3dr](images/shr3dr.jpg)
-
-![The aftermath](images/2022Bots.jpg)
-
-## Finding Information
+## Finding Information on Bot Building
 
 * Out of the Arena Discord - https://discord.gg/oota 
 * YouTube 
-  * CNC Kitchen - https://www.youtube.com/c/CNCKitchen 
-  * Robert Cowan - https://www.youtube.com/c/RobertCowanDIY 
-  * Team Panic - https://www.youtube.com/c/TeamPanicRobotics 
+  * [Our Custom Playlist](https://www.youtube.com/playlist?list=PLxq8_uw4EH_qzgBlJZU6n-hOeKqDgr3SU)
+  * Some channels we love
+    * [CNC Kitchen](https://www.youtube.com/c/CNCKitchen)
+    * [Robert Cowan from Team Copperhead](https://www.youtube.com/c/RobertCowanDIY)
+    * [Team Panic](https://www.youtube.com/c/TeamPanicRobotics)
 * Dragon Con Robot Battles - http://www.robotbattles.com/ 
 
 ## What type of robot should I build?
+
+
 
 ### Weight Classes
 
@@ -47,12 +43,26 @@ draft: false
 ### Common types of bots
 
 * Wedges
+![wedge](images/wedge.jpg)
+[Hazardous Wej](https://cults3d.com/en/3d-model/game/hazardous-wej-1lb-plastic-antweight-combat-robot)
 * Lifters/Flippers/Hammers
+![flipper](images/flipper.jpg)
+[Menehune](https://www.servomagazine.com/magazine/article/an-experimental-approach-to-flipper-geometry)
 * **Drum spinners**
+![drum spinner](images/drum.jpg)
+[Sharpnelly](https://eleccelerator.com/shrapnelly-antweight-combat-robot/)
 * **Horizontal Spinners**
+![horizontal spinner](images/horizontal.png)
+[DetCord](https://eleccelerator.com/detcord-antweight-combat-robot/)
 * **Vertical Spinners**
+![vertical spinner](images/vertical.jpg)
+[Vertical Spinner](https://pinshape.com/items/30852-3d-printed-antweight1lb-spinner-battlebot)
 * Full Body Spinners 
-* Melty Brains
+  ![full body spinner](images/fullspin.jpg)
+  [ORBY Spin Mini](https://www.facebook.com/TeamORBY/posts/orby-spin-mini1lb-antweight-full-body-spinner/180993939235094/)
+* Melty Brains 
+  ![melty](images/melty.png)
+  [Pac-Attac](https://robowarner.com/portfolio/pac-attac-1lb-meltybrain/) 
 
 ## Kit or DIY
 
