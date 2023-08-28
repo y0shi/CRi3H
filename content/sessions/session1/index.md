@@ -14,7 +14,7 @@ draft: false
 
 ## Finding Information on Bot Building
 
-* Out of the Arena Discord - https://discord.gg/oota 
+* RIGHT HERE FOLKS 
 * YouTube 
   * [Our Custom Playlist](https://www.youtube.com/playlist?list=PLxq8_uw4EH_qzgBlJZU6n-hOeKqDgr3SU)
   * Some channels we love
@@ -23,6 +23,7 @@ draft: false
     * [Robert Cowan from Team Copperhead](https://www.youtube.com/c/RobertCowanDIY)
     * [Team Panic](https://www.youtube.com/c/TeamPanicRobotics)
     * [Just 'Cuz Robotics](https://www.youtube.com/@JustCuzRobotics)
+* Out of the Arena Discord - https://discord.gg/oota
 * Dragon Con Robot Battles - http://www.robotbattles.com/ 
 
 ## What type of robot should I build?
