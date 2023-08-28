@@ -23,4 +23,10 @@ draft: false
 ## Weapon Install
 
 ## Wiring
-![Basic Electrical Setup](images/level1electrical.png)
+![Wiring](images/assembly.png)
+
+### Common Electrical Setup
+![Basic Electrical Setup](images/genericelectrical.png)
+
+### Electrical Setup with built-in ESCs
+![Electrical Setup 2](images/level1electrical.png)
