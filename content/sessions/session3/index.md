@@ -28,14 +28,22 @@ draft: false
 {{< youtube LJOhL6DVads >}}
 
 
-## Now what?
-Now you've got a robot, so what are you gonna do with it?   of ways to battle
+## Safety ~~third~~ **FIRST**
 
-### Testing
-- BE SAFE
-  - Eye protection
-  - Weapon Safety
-  - Battery Safety
+- **Eye protection** is the most important item!  Even the smallest bot can blind you.
+- Use a test box to test your bot, or set up a camera and test your bot 'remotely'.
+- Always follow the proper startup/shutdown procedure, in order!
+  1. Make sure controller is zeroed
+  1. Turn on the controller
+  1. Turn on the bot
+  1. Test!
+  1. Turn off the bot
+  1. Turn off the controller
+
+
+
+## Now what?
+Now you've got a robot, so what are you gonna do with it?   Here are a few ways to find a battle.
 
 
 ### Finding a competition
