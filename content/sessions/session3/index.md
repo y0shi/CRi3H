@@ -27,10 +27,23 @@ draft: false
 
 {{< youtube LJOhL6DVads >}}
 
-## Testing
-
 
 ## Now what?
+Now you've got a robot, so what are you gonna do with it?   of ways to battle
 
-### Finding a comp
+### Testing
+- BE SAFE
+  - Eye protection
+  - Weapon Safety
+  - Battery Safety
+
+
+### Finding a competition
+- [Robot Battles at DragonCon](http://www.robotbattles.com/)
+- [BuildersDB](https://www.buildersdb.com/)
+- [Robot Combat events](https://www.robotcombatevents.com/)
+
+
+
+
 

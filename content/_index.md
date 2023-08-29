@@ -38,3 +38,8 @@ Although we have a fair bit of experience in robotics, engineering, and software
 * [Level 1: Shr3dr](bots/shr3d3r/)
 * [Level 2: Marvin](bots/marvin/)
 * [Level 3: Viper(kit)](bots/viper/)
+
+
+## Our Sponsors
+[![Ignite Robotics](images/ignite.png)](https://igniterobotics.com)
+[![ItGresa Robotics](images/itgresa.jpg)](https://itgresa.com/)

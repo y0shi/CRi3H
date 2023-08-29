@@ -14,13 +14,16 @@ draft: false
 
 ## Finding Information on Bot Building
 
-* Out of the Arena Discord - https://discord.gg/oota 
+* RIGHT HERE FOLKS 
 * YouTube 
   * [Our Custom Playlist](https://www.youtube.com/playlist?list=PLxq8_uw4EH_qzgBlJZU6n-hOeKqDgr3SU)
   * Some channels we love
+    * [National Havoc Robot League](https://www.youtube.com/@nhrl)
     * [CNC Kitchen](https://www.youtube.com/c/CNCKitchen)
     * [Robert Cowan from Team Copperhead](https://www.youtube.com/c/RobertCowanDIY)
     * [Team Panic](https://www.youtube.com/c/TeamPanicRobotics)
+    * [Just 'Cuz Robotics](https://www.youtube.com/@JustCuzRobotics)
+* Out of the Arena Discord - https://discord.gg/oota
 * Dragon Con Robot Battles - http://www.robotbattles.com/ 
 
 ## What type of robot should I build?
@@ -95,6 +98,19 @@ draft: false
 * So Many More
 ####  Let's design a robot
 ![mini-t cad design](images/mini-t-cad.jpg)
+
+**Initial Body CAD**
+{{< youtube BM9_CKro1f0 >}}
+
+**Sketching off the shelf parts**
+{{< youtube UXcXCzX34HU >}}
+
+**Designing the weapon**
+{{< youtube ZCAuqMdz_qs >}}
+
+**Putting it together**
+{{< youtube tDYI5F1kjE8 >}}
+
 
 
 ##  Slicing and Printing
