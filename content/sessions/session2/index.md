@@ -14,19 +14,30 @@ draft: false
 * *Session 4* - *FIGHT*
 
 ## Assembling your robot
+* Make sure it fits
+* Wiring
 * Drivetrain installation
 * Weapon installation
-* Wiring
-
-## Drivetrain Install
-
-## Weapon Install
+* Hope it's not too heavy
+* Freak out
 
 ## Wiring
-![Wiring](images/assembly.png)
 
 ### Common Electrical Setup
 ![Basic Electrical Setup](images/genericelectrical.png)
 
 ### Electrical Setup with built-in ESCs
 ![Electrical Setup 2](images/level1electrical.png)
+
+## Assembly
+### Drivetrain Install
+![Motor Install](images/motor-L.jpg)
+![Motor Install](images/motor-R.jpg)
+
+
+### Weapon Install
+![Weapon Install](images/weapon-1.jpg)
+![Weapon Install](images/weapon-2.jpg)
+
+## It fits! (sorta)
+![Wiring](images/assembly.png)
