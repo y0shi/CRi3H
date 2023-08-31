@@ -14,7 +14,7 @@ Mini T is an ant-weight bot inspired by the famous Tombstone, built by Ray Billi
 #### [Mini-T CAD (Onshape)](https://cad.onshape.com/documents/8284261934fcd55d82bc3537/w/920f2ca48e9a7e7adbf05e19/e/7e0400d991510fcbada9d427)
 ![mini-t cad design](images/mini-t-cad.jpg)
 ## STLs
-Coming Soon
+### [Download STLs](images/little-t.zip)
 
 ## Bill of Materials
 |Part        |Description |Price       |Link        |

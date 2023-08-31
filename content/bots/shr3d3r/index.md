@@ -15,7 +15,7 @@ Shr3d3r is an ant-weight drum spinner.  It features a 3d printed chassis with a 
 #### [CAD via OnShape](https://cad.onshape.com/documents/79d83e4f2aa5eaea73d4ad75)
 ![shr3d3r](images/Shr3d3r2-CAD.png)
 ## STLs
-Coming Soon
+#### [Download STLs](images/shr3d3r.zip)
 
 ## Bill of Materials
 |Part        |Description |Price       |Link        |
