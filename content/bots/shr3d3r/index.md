@@ -9,9 +9,11 @@ draft: false
 Shr3d3r is an ant-weight drum spinner.  It features a 3d printed chassis with a drum spinner using bolts for 'teeth'.  It can be built for around $150, including the radio controller.
 
 ## Pictures
-![shr3d3r](images/shr3dr.jpg)
+![shr3d3r](images/shr3d3rv2.jpg)
 ## CAD files
-Coming Soon
+
+#### [CAD via OnShape](https://cad.onshape.com/documents/79d83e4f2aa5eaea73d4ad75)
+![shr3d3r](images/Shr3d3r2-CAD.png)
 ## STLs
 Coming Soon
 
