@@ -36,7 +36,6 @@ Although we have a fair bit of experience in robotics, engineering, and software
 ## The bots
 * [Level 1: Mini-T](bots/mini-t/)
 * [Level 1: Shr3dr](bots/shr3d3r/)
-* [Level 2: Marvin](bots/marvin/)
 * [Level 3: Viper(kit)](bots/viper/)
 
 
